@@ -1,0 +1,74 @@
+.title{
+        font-size: 35px;
+        font-weight: bold;
+        font-family: Arial;
+        color: aliceblue;
+}
+.paragraph{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 650px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.body{
+    background-color: rgb(208, 174, 131);
+}
+.join-button{
+    background-color: rgb(240, 248, 255);
+    margin-top: 50px;
+    margin-left: 250px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-color: aqua;
+    cursor: pointer;
+}
+.join-button:hover{
+    background-color: rgb(253, 254, 255);
+}
+.signe-up{
+    background-color: rgb(240, 248, 255);
+    margin-top: 50px;
+    margin-left: 150px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-color: aqua;
+    cursor: pointer;
+}
+.connect{
+    background-color: rgb(240, 248, 255);
+    margin-top: 150px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-color: aqua;
+    cursor: pointer;
+}
+.signe-up:hover{
+    background-color: rgb(253, 254, 255);
+    padding-left : 30px; 
+    padding-right: 30px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transition: 0.15s;
+}
+.connect:hover{
+    background-color: rgb(253, 254, 255);
+    padding-left : 30px; 
+    padding-right: 30px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transition: 0.15s;
+}
